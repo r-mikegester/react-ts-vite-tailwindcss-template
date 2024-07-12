@@ -4,7 +4,6 @@ import viteLogo from './assets/svgs/vite.svg'
 import tsLogo from './assets/svgs/typescript.svg'
 import tailwindcssLogo from './assets/svgs/tailwindcss.svg'
 import mkgstr from './assets/imgs/mkgstrLogoC.png';
-
 import './App.css'
 import './index.css'
 function App() {
